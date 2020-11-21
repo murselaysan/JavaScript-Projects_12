@@ -6,11 +6,14 @@ const randomNum = () => {
 
 
 
-let startButton = document.getElementById('start')
-let dice1 = document.getElementById('dice_A')
-let dice2 = document.getElementById('dice_B')
+let startButton = document.getElementById('start');
+
+let dice1 = document.getElementById('dice_A');
+
+let dice2 = document.getElementById('dice_B');
 
 const player1 = document.getElementById('player_1');
+
 const player2 = document.getElementById('player_2');
 
 
