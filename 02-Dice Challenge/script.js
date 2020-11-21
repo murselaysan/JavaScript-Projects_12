@@ -2,6 +2,10 @@ const randomNum = () => {
   return Math.floor(Math.random() * 6) + 1;
 }
 
+
+
+
+
 let startButton = document.getElementById('start')
 let dice1 = document.getElementById('dice_A')
 let dice2 = document.getElementById('dice_B')
